@@ -1,3 +1,5 @@
 New File 3 inside master branch
 
 Stashed changes
+
+v2.0 more changes
